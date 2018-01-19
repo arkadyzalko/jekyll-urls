@@ -1,4 +1,8 @@
-### 1.3.0 / 2018-01-19
+### 1.5.0 / 2018-01-19
+
+  * Update documentation
+  
+### 1.4.0 / 2018-01-19
 
   * Ignore index.html in url
 
